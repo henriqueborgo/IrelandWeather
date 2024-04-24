@@ -1,7 +1,7 @@
 
 # Irish weather
 
-Project to understand about the monthly rainfall by intensity level in two counties of Republic of Ireland, Cork and Galway. However, it's possible to find the reults for all counties of Republic of Ireland through the result of this project.
+Project to understand about the monthly rainfall by intensity level in two counties of Republic of Ireland, Cork and Galway. However, it's possible to find the results for all counties of Republic of Ireland through the result of this project.
 
 
 
